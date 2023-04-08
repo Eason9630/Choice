@@ -10,4 +10,6 @@ import Foundation
 struct Question {
     let title: String
     let answer: [String]
+    let answerIndex: Int
+    
 }
